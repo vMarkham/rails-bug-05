@@ -16,7 +16,7 @@ Note: email/password combinations for existing users populated by `rake db:seed`
 
 ### I'm pulling my hair out!!!
 
-<img src="http://stickerish.com/wp-content/themes/mio/sp-framework/timthumb/timthumb.php?src=http://stickerish.com/wp-content/uploads/2011/03/RageFaceBlackSS.png&h=500&w=500&zc=2&q=100&a=c&s=&f=&cc=&ct=" />
+<img src="http://bracketgeek.com/system/avatars/451/original/RageFaceBlackSS.png" />
 
 **You can only edit _certain_ tasks**
 ```
